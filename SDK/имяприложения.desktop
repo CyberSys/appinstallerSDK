@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=имяприложения
+Exec=команда запуска
+Icon=путькиконке
+Terminal=false
+Categories=Utility;
